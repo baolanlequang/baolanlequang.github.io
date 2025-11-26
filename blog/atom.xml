@@ -2,11 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baolan2005.com/blog</id>
     <title>baolan2005 Blog</title>
-    <updated>2017-10-19T00:00:00.000Z</updated>
+    <updated>2025-11-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://baolan2005.com/blog"/>
     <subtitle>baolan2005 Blog</subtitle>
     <icon>https://baolan2005.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Thời đại 4.0 là gì]]></title>
+        <id>https://baolan2005.com/blog/what-is-industry-4-0</id>
+        <link href="https://baolan2005.com/blog/what-is-industry-4-0"/>
+        <updated>2025-11-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ngày nay, chúng ta thường nghe không chỉ nhiều lãnh đạo mà còn người dân ở Việt Nam xài thuật ngữ "thời đại bốn chấm không (4.0)". Vậy thì ý nghĩa của cụm từ "thời đại 4.0" này là gì và nó xuất phát từ đâu? Số bốn ở đây có cùng ý nghĩa với mạng 4G hay không? Có thể xài cụm từ mạng 5G để chỉ "thời đại 5.0" tiên tiến hơn "thời đại 4.0" hay không? Bài viết này sẽ giúp mọi người có cái nhìn tổng quan một chút về nó.]]></summary>
+        <content type="html"><![CDATA[<p>Ngày nay, chúng ta thường nghe không chỉ nhiều lãnh đạo mà còn người dân ở Việt Nam xài thuật ngữ "thời đại bốn chấm không (4.0)". Vậy thì ý nghĩa của cụm từ "thời đại 4.0" này là gì và nó xuất phát từ đâu? Số bốn ở đây có cùng ý nghĩa với mạng 4G hay không? Có thể xài cụm từ mạng 5G để chỉ "thời đại 5.0" tiên tiến hơn "thời đại 4.0" hay không? Bài viết này sẽ giúp mọi người có cái nhìn tổng quan một chút về nó.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-ý-nghĩa-của-40-là-gì">1. Ý nghĩa của 4.0 là gì?<a href="https://baolan2005.com/blog/what-is-industry-4-0#1-%C3%BD-ngh%C4%A9a-c%E1%BB%A7a-40-l%C3%A0-g%C3%AC" class="hash-link" aria-label="Direct link to 1. Ý nghĩa của 4.0 là gì?" title="Direct link to 1. Ý nghĩa của 4.0 là gì?" translate="no">​</a></h2>
+<p>Cụm từ <strong>"thời đại 4.0"</strong> thật ra là viết tắt (hay nói tắt) của <strong>"thời đại công nghiệp 4.0"</strong>, tiếng Anh là Industry 4.0. Cụm từ này xuất phát lần đầu tiên trong một dự án nghiên cứu được tài trợ bởi chính phủ Cộng hoà Liên Bang Đức vào năm 2013 (nguyên bản tiếng Đức là "Industrie 4.0")<sup><a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fn-1-7768c8" id="user-content-fnref-1-7768c8" data-footnote-ref="true" aria-describedby="footnote-label" class="anchorTargetStickyNavbar_Vzrq">1</a></sup> <sup><a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fn-2-7768c8" id="user-content-fnref-2-7768c8" data-footnote-ref="true" aria-describedby="footnote-label" class="anchorTargetStickyNavbar_Vzrq">2</a></sup>. Sau đó, cụm từ này phổ biến ra toàn thế giới vào năm 2016 tại Diễn Đàn Kinh Tế Thế Giới (World Economic Forum) bởi nhà sáng lập và chủ tịch của diễn đàn này tại thời điểm đó là Klaus Schwab.</p>
+<p>Vậy <strong>"thời đại công nghiệp 4.0"</strong> là gì? Thật ra đây là cụm từ được sử dụng để chỉ cuộc cách mạng công nghiệp lần thứ tư, đó là những tiến bộ vượt trội về công nghệ mà nhân loại đã đạt được trong những thập niên gần đây. Để biết tại sao gọi là cuộc cách mạng công nghiệp lần thứ tư thì chúng ta cũng cần nhắc lại ba cuộc cách mạng công nghiệp mà nhân loại đã thực hiện trong lịch sử:</p>
+<ul>
+<li class="">Cuộc cách mạng công nghiệp đầu tiên: Đây là cuộc cách mạng về việc chuyển đổi từ sản xuất thủ công sang sử dụng máy móc có động cơ chạy bằng nước hoặc hơi nước. Cuộc cách mạng công nghiệp này bắt đầu ở Vương quốc Anh vào thế kỉ 18<sup><a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fn-3-7768c8" id="user-content-fnref-3-7768c8" data-footnote-ref="true" aria-describedby="footnote-label" class="anchorTargetStickyNavbar_Vzrq">3</a></sup>.</li>
+<li class="">Cuộc cách mạng công nghiệp lần thứ hai: Đây còn gọi là cuộc Cách mạng kỹ thuật (Technological Revolution) được diễn ra vào khoảng thời gian từ năm 1871 đến 1914. Cuộc cách mạng này là mở rộng hệ thống đường sắt và khai sinh ra hệ thống viễn thông diện rộng<sup><a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fn-4-7768c8" id="user-content-fnref-4-7768c8" data-footnote-ref="true" aria-describedby="footnote-label" class="anchorTargetStickyNavbar_Vzrq">4</a></sup>.</li>
+<li class="">Cuộc cách mạng công nghiệp lần thứ ba: Đây là cuộc cách mạng diễn ra từ cuối thế kỉ 20 và còn được gọi là Cuộc cách mạng kỹ thuật số (Digital Revolution). Cuộc cách mạng này mở ra thời đại sử dụng máy vi tính cá nhân, mạng internet, điện thoại thông minh, máy móc, xe cộ được điều khiển bằng máy vi tính,....</li>
+</ul>
+<p><strong>Như vậy, "thời đại công nghiệp 4.0" là thuật ngữ để chỉ rằng chúng ta đang sống trong thời đại của một cuộc cách mạng công nghiệp mới. Hiện tại chưa có thời đại 5.0, công nghệ 5G là công nghệ mạng miễn thông thế hệ thứ 5 (fifth generation of cellular network technology), chữ G ở đây là viết tắt của Generation</strong></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-những-gì-đã-đang-và-sẽ-dự-định-diễn-ra-trong-thời-kỳ-40-này">2. Những gì đã, đang, và sẽ (dự định) diễn ra trong thời kỳ 4.0 này?<a href="https://baolan2005.com/blog/what-is-industry-4-0#2-nh%E1%BB%AFng-g%C3%AC-%C4%91%C3%A3-%C4%91ang-v%C3%A0-s%E1%BA%BD-d%E1%BB%B1-%C4%91%E1%BB%8Bnh-di%E1%BB%85n-ra-trong-th%E1%BB%9Di-k%E1%BB%B3-40-n%C3%A0y" class="hash-link" aria-label="Direct link to 2. Những gì đã, đang, và sẽ (dự định) diễn ra trong thời kỳ 4.0 này?" title="Direct link to 2. Những gì đã, đang, và sẽ (dự định) diễn ra trong thời kỳ 4.0 này?" translate="no">​</a></h2>
+<p>Mục tiêu của cuộc cách mạng này là hướng tới những công nghệ thông minh hơn, hiệu quả hơn và thông tin minh bạch hơn. Sau đây là những công nghệ đã, đang, và sẽ tiếp tục được nghiên cứu và phát triển trong thời đại này.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="21-internet-of-things-internet-vạn-vật---iots">2.1. Internet of Things (Internet vạn vật - IoTs)<a href="https://baolan2005.com/blog/what-is-industry-4-0#21-internet-of-things-internet-v%E1%BA%A1n-v%E1%BA%ADt---iots" class="hash-link" aria-label="Direct link to 2.1. Internet of Things (Internet vạn vật - IoTs)" title="Direct link to 2.1. Internet of Things (Internet vạn vật - IoTs)" translate="no">​</a></h3>
+<p>Như tên gọi của nó, mục tiêu của việc này là nghiên cứu và áp dụng công nghệ internet cho những vật quanh chúng ta. Chúng ta đã thấy từ việc camera giám sát ngày xưa chỉ lưu trữ video trong bộ nhớ của nó phát triển thành việc chúng ta có thể truy cập nó qua internet, và dữ liệu được lưu trên một nơi nào đó ngoài bộ nhớ cố định của nó; cho đến việc cái tủ lạnh, cái máy giặt hay thậm chí cái bóng đèn cũng được kết nối internet. Việc kết nối internet này không dừng lại ở đồ gia dụng mà còn áp dụng trong sản xuất công nghiệp khi các máy móc kết nối chia sẻ thông tin của với các cảm biến (sensor) thông qua mạng internet <sup><a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fn-5-7768c8" id="user-content-fnref-5-7768c8" data-footnote-ref="true" aria-describedby="footnote-label" class="anchorTargetStickyNavbar_Vzrq">5</a></sup>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="22-cloud-computing-điện-toán-đám-mây">2.2. Cloud computing (Điện toán đám mây)<a href="https://baolan2005.com/blog/what-is-industry-4-0#22-cloud-computing-%C4%91i%E1%BB%87n-to%C3%A1n-%C4%91%C3%A1m-m%C3%A2y" class="hash-link" aria-label="Direct link to 2.2. Cloud computing (Điện toán đám mây)" title="Direct link to 2.2. Cloud computing (Điện toán đám mây)" translate="no">​</a></h3>
+<p>Điện toán đám mây là một công nghệ giúp chúng ta truy cập phần mềm, dịch vụ công nghệ thông tin thông qua môi trường internet mà không cần phải cài đặt nó trên môi trường máy tính của chúng ta. Những phần mềm, dịch vụ này sẽ được cung cấp miễn phí hoặc trả phí từ một nhà cung cấp gọi là cloud provider. Công nghệ điện toán đám mây giúp dễ dàng xây dựng hệ thống lưới điện thông minh cũng như thành phố thông minh <sup><a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fn-7-7768c8" id="user-content-fnref-7-7768c8" data-footnote-ref="true" aria-describedby="footnote-label" class="anchorTargetStickyNavbar_Vzrq">6</a></sup>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="23-trí-tuệ-nhân-tạo-artifical-intelligence---ai">2.3. Trí tuệ nhân tạo (Artifical Intelligence - AI)<a href="https://baolan2005.com/blog/what-is-industry-4-0#23-tr%C3%AD-tu%E1%BB%87-nh%C3%A2n-t%E1%BA%A1o-artifical-intelligence---ai" class="hash-link" aria-label="Direct link to 2.3. Trí tuệ nhân tạo (Artifical Intelligence - AI)" title="Direct link to 2.3. Trí tuệ nhân tạo (Artifical Intelligence - AI)" translate="no">​</a></h3>
+<p>Cho tới thời điểm viết bài này, cơn sốt AI được nhắc khắp nơi, từ nhà khoa học, chính trị gia, doanh nhân, người không chuyên cho tới đám lừa đảo. Trí tuệ nhân tạo được hiểu đơn giản là các chương trình máy tính có khả năng tính toán và suy luận, ra quyết định như con người <sup><a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fn-6-7768c8" id="user-content-fnref-6-7768c8" data-footnote-ref="true" aria-describedby="footnote-label" class="anchorTargetStickyNavbar_Vzrq">7</a></sup>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="24-edge-computing-tính-toán-lưới">2.4. Edge computing (Tính toán lưới)<a href="https://baolan2005.com/blog/what-is-industry-4-0#24-edge-computing-t%C3%ADnh-to%C3%A1n-l%C6%B0%E1%BB%9Bi" class="hash-link" aria-label="Direct link to 2.4. Edge computing (Tính toán lưới)" title="Direct link to 2.4. Edge computing (Tính toán lưới)" translate="no">​</a></h3>
+<p>Đây là công nghệ xoay quanh việc dữ liệu sẽ được tính toán, phân tích ở thiết bị "cạnh (edge)" <sup><a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fn-8-7768c8" id="user-content-fnref-8-7768c8" data-footnote-ref="true" aria-describedby="footnote-label" class="anchorTargetStickyNavbar_Vzrq">8</a></sup>.</p>
+<p>Lấy ví dụ một mô hình đèn giao thông tự động xử lý tuỳ theo mật độ giao thông đang lưu trong trên đường, nếu đèn giao thông này thu thập dữ liệu rồi gửi về một trung tâm xử lý tập trung rồi mới nhận tín hiệu từ trung tâm đó mới hiển thị đèn theo quyết định từ trung tâm, thì độ chính xác sẽ thấp vì nó lệ thuộc vào tốc độ mạng kết nối giữa đèn và trung tâm xử lý dữ liệu. Ở đây, thiết bị cạnh là đèn giao thông và công nghệ này cho phép nó tự tính toán phân tích dữ liệu theo thời gian thực và ra quyết định hiển thị đèn nào cho phù hợp.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="24-digital-twin-bản-sao-số">2.4. Digital Twin (Bản sao số)<a href="https://baolan2005.com/blog/what-is-industry-4-0#24-digital-twin-b%E1%BA%A3n-sao-s%E1%BB%91" class="hash-link" aria-label="Direct link to 2.4. Digital Twin (Bản sao số)" title="Direct link to 2.4. Digital Twin (Bản sao số)" translate="no">​</a></h3>
+<p>Đây là công nghệ giúp tạo ra một bản sao trên hệ thống máy tính của một vật hoặc một hệ thống thật <sup><a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fn-9-7768c8" id="user-content-fnref-9-7768c8" data-footnote-ref="true" aria-describedby="footnote-label" class="anchorTargetStickyNavbar_Vzrq">9</a></sup>.</p>
+<p>Nó khác biệt với mô phỏng (simulation) đó là trong mô phỏng thì dữ liệu sẽ được giả định hoặc dựa trên những dữ liệu sẵn có để mô phỏng một vật hoặc một hệ thống nào đó. Trong Digital Twin, dữ liệu gửi tới bản sao số của hệ thống chính là dữ liệu thật được thu trực tiếp từ các cảm biến và thiết bị thật trong hệ thống để có thể phân tích, dự đoán và phát triển dựa trên những dữ liệu này ngay trong thời gian hoạt động của hệ thống.</p>
+<!-- -->
+<section data-footnotes="true" class="footnotes"><h2 class="anchor anchorTargetStickyNavbar_Vzrq sr-only" id="footnote-label">Footnotes<a href="https://baolan2005.com/blog/what-is-industry-4-0#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes" translate="no">​</a></h2>
+<ol>
+<li class="anchorTargetStickyNavbar_Vzrq" id="user-content-fn-1-7768c8">
+<p>Bundesministerium für Bildung und Forschung: Zukunftsbild „Industrie 4.0“. Bonn 2013. <a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fnref-1-7768c8" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+<li class="anchorTargetStickyNavbar_Vzrq" id="user-content-fn-2-7768c8">
+<p><a href="https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/zukunftsbild-industrie-4-0.pdf?__blob=publicationFile&amp;v=4" target="_blank" rel="noopener noreferrer" class="">https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/zukunftsbild-industrie-4-0.pdf?__blob=publicationFile&amp;v=4</a> <a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fnref-2-7768c8" data-footnote-backref="" aria-label="Back to reference 2" class="data-footnote-backref">↩</a></p>
+</li>
+<li class="anchorTargetStickyNavbar_Vzrq" id="user-content-fn-3-7768c8">
+<p><a href="https://en.wikipedia.org/wiki/Industrial_Revolution" target="_blank" rel="noopener noreferrer" class="">https://en.wikipedia.org/wiki/Industrial_Revolution</a> <a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fnref-3-7768c8" data-footnote-backref="" aria-label="Back to reference 3" class="data-footnote-backref">↩</a></p>
+</li>
+<li class="anchorTargetStickyNavbar_Vzrq" id="user-content-fn-4-7768c8">
+<p><a href="https://en.wikipedia.org/wiki/Second_Industrial_Revolution" target="_blank" rel="noopener noreferrer" class="">https://en.wikipedia.org/wiki/Second_Industrial_Revolution</a> <a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fnref-4-7768c8" data-footnote-backref="" aria-label="Back to reference 4" class="data-footnote-backref">↩</a></p>
+</li>
+<li class="anchorTargetStickyNavbar_Vzrq" id="user-content-fn-5-7768c8">
+<p>Li, Shancang, Li Da Xu, and Shanshan Zhao. "The internet of things: a survey." Information systems frontiers 17.2 (2015): 243-259. <a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fnref-5-7768c8" data-footnote-backref="" aria-label="Back to reference 5" class="data-footnote-backref">↩</a></p>
+</li>
+<li class="anchorTargetStickyNavbar_Vzrq" id="user-content-fn-7-7768c8">
+<p><a href="https://www.ibm.com/think/topics/cloud-computing" target="_blank" rel="noopener noreferrer" class="">https://www.ibm.com/think/topics/cloud-computing</a> <a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fnref-7-7768c8" data-footnote-backref="" aria-label="Back to reference 6" class="data-footnote-backref">↩</a></p>
+</li>
+<li class="anchorTargetStickyNavbar_Vzrq" id="user-content-fn-6-7768c8">
+<p><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer" class="">https://en.wikipedia.org/wiki/Artificial_intelligence</a> <a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fnref-6-7768c8" data-footnote-backref="" aria-label="Back to reference 7" class="data-footnote-backref">↩</a></p>
+</li>
+<li class="anchorTargetStickyNavbar_Vzrq" id="user-content-fn-8-7768c8">
+<p><a href="https://www.ibm.com/think/topics/edge-computing" target="_blank" rel="noopener noreferrer" class="">https://www.ibm.com/think/topics/edge-computing</a> <a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fnref-8-7768c8" data-footnote-backref="" aria-label="Back to reference 8" class="data-footnote-backref">↩</a></p>
+</li>
+<li class="anchorTargetStickyNavbar_Vzrq" id="user-content-fn-9-7768c8">
+<p>Botín-Sanabria, Diego M., et al. "Digital twin technology challenges and applications: A comprehensive review." Remote Sensing 14.6 (2022): 1335. <a href="https://baolan2005.com/blog/what-is-industry-4-0#user-content-fnref-9-7768c8" data-footnote-backref="" aria-label="Back to reference 9" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>]]></content>
+        <author>
+            <name>Lan Le (M.Sc)</name>
+            <uri>https://baolan2005.com</uri>
+        </author>
+        <category label="basic knowledge" term="basic knowledge"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Core ML in iOS from A to Z]]></title>
         <id>https://baolan2005.com/blog/using-core-ml-in-ios-from-a-to-z</id>
@@ -66,7 +134,7 @@
 <p><strong>Now, run the app and enjoy!</strong></p>
 <p><strong>Happy Coding! Good luck!</strong></p>]]></content>
         <author>
-            <name>Lan Le</name>
+            <name>Lan Le (M.Sc)</name>
             <uri>https://baolan2005.com</uri>
         </author>
         <category label="machine learning" term="machine learning"/>

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkbaolan_2005_web=globalThis.webpackChunkbaolan_2005_web||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Using Core ML in iOS from A to Z","permalink":"/blog/using-core-ml-in-ios-from-a-to-z","unlisted":false,"date":"2017-10-19T00:00:00.000Z"}]}')}}]);
